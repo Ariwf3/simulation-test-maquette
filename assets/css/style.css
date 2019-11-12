@@ -1,0 +1,14 @@
+
+
+
+.container {
+    color : #453736;
+    padding: 1rem;
+}
+h1,h2 {
+    margin: 0;
+    padding: 0;
+}
+img {
+    width: 100%;
+}
