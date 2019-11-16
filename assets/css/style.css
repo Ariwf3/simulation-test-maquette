@@ -1,18 +1,22 @@
 
 
-
+/* GENERAL */
 .container {
     color : #453736;
     padding: 1rem;
 }
+
 h1,h2 {
     margin: 0;
     padding: 0;
 }
+
 img {
     width: 100%;
 }
 
+
+/* TABLE */
 .table_lead {
     font-size: 1.6rem;
 }
