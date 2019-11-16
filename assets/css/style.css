@@ -12,3 +12,11 @@ h1,h2 {
 img {
     width: 100%;
 }
+
+.table_lead {
+    font-size: 1.6rem;
+}
+
+.table_lead>b {
+    font-size: 2rem;
+}
