@@ -15,6 +15,14 @@ img {
     width: 100%;
 }
 
+/* SECTION overview */
+.preparation_infos>p {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    display: inline-block;
+    font-weight: 400;
+}
 
 /* TABLE */
 .table_lead {
@@ -24,3 +32,4 @@ img {
 .table_lead>b {
     font-size: 2rem;
 }
+
